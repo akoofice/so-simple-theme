@@ -19,7 +19,7 @@ published: true
 ---
 
 <figure>
-	<a href="/images/100ppp.jpg"><img src="/images/100ppp.jpg" alt="artivins#2 galeribcn"></a>
+	<a href="/images/100ppp.JPG"><img src="/images/100ppp.JPG" alt="artivins#2 galeribcn"></a>
 </figure>
 
 
