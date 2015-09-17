@@ -39,7 +39,7 @@ published: true
 
 _Me llamo **Agustín Martínez** y soy un artista autodidacta._
 
-_He vivido en Sant Antoni –Barcelona, durante doce años aunque nací en Benicarló, en Castelló. Desde adolescente, el collage ha sido la técnica artística que más me ha llamado la atención. Pertenezco a una generación de hombres y mujeres que casi consideran un televisor como a un miembro más de la familia. Personas como yo hemos sido alimentados con mezclas de imágenes de diferentes tipos. Debido a esta influencia encuentro natural expresarme mediante imágenes yuxtapuestas. A través de mis collages intento comunicar cosas que encuentro imposible comunicar de otra manera: la idea de masculinidad, la idea de belleza, el deseo y la falta de éste más la lucha para reganarlo o reconquistarlo._
+_He vivido en Sant Antoni – Barcelona, durante doce años aunque nací en Benicarló, en Castelló. Desde adolescente, el collage ha sido la técnica artística que más me ha llamado la atención. Pertenezco a una generación de hombres y mujeres que casi consideran un televisor como a un miembro más de la familia. Personas como yo hemos sido alimentados con mezclas de imágenes de diferentes tipos. Debido a esta influencia encuentro natural expresarme mediante imágenes yuxtapuestas. A través de mis collages intento comunicar cosas que encuentro imposible comunicar de otra manera: la idea de masculinidad, la idea de belleza, el deseo y la falta de éste más la lucha para reganarlo o reconquistarlo._
 
 _Tengo collages en colecciones privadas en España, Alemania, Holanda y Bélgica._
 
