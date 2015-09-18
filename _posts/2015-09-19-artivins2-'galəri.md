@@ -19,7 +19,7 @@ published: true
 ---
 
 <figure>
-	<a href="/images/foto.jpg"><img src="/images/foto.jpg" alt="artivins#2 galeribcn"></a>
+	<a href="/images/foto.jpg"><img src="http://respiracion-circular-avanzada.es/galeribcn/foto.jpg" alt="artivins#2 galeribcn"></a>
 </figure>
 
 
