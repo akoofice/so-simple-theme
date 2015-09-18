@@ -15,11 +15,13 @@ imagen:
 Cráneo de cordero, tornillería de latón. 22x11x10 cm. Pieza única.</figcaption>
 </figure>
 
+
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/2.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/2.jpg" alt="Objeto de arte y decoración. Pieza única"></a>
 	<figcaption><b>CERDO NATURAL.</b>
 Cráneo de cerdo, tornillería de latón. 27x17x18 cm. Pieza única.</figcaption>
 </figure>
+
 
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/3.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/3.jpg" alt="Objeto de arte y decoración. Pieza única"></a>
@@ -27,11 +29,13 @@ Cráneo de cerdo, tornillería de latón. 27x17x18 cm. Pieza única.</figcaption
 Cráneo de vaca, tornillería de latón. 45x23x27 cm. Pieza única.</figcaption>
 </figure>
 
+
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/4A.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/4A.jpg" alt="Objeto de arte y decoración. Pieza única"></a>
 	<figcaption><b>DEDITOS.</b>
 Cráneo de corzo, tornillería de latón, resina y pintura acrílica. 22x11x10 cm. Pieza única.</figcaption>
 </figure>
+
 
 <figure class="half">
 <figure>
@@ -42,6 +46,7 @@ Cráneo de corzo, tornillería de latón, resina y pintura acrílica. 22x11x10 c
 Cráneo de cordero, tornillería de latón e impresión transfer. 22x11x10 cm. Pieza única.</figcaption>
 </figure>
 
+
 <figure class="half">
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/5.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/5.jpg"></a>
@@ -50,6 +55,7 @@ Cráneo de cordero, tornillería de latón e impresión transfer. 22x11x10 cm. P
 	<figcaption><b>CERDO RACIONAL O SOÑADOR.</b>
 Cráneo de cerdo, mecanismos de relojería, plomo, acrílico y tornillería de latón. 27x14x17 cm. Pieza única.</figcaption>
 </figure>
+
 
 <figure class="half">
 <figure>
@@ -70,6 +76,7 @@ Cráneo de vaca, resina, tornillería de latón, acrílico, lápiz, acuarela y f
 Cráneo de vaca, bronce, tornillería de latón, pan de oro, resina, acrílico y escarabajo. 52x69x44 cm. Pieza única.</figcaption>
 </figure>	
 
+
 <figure class="half">
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/8.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/8.jpg"></a>
@@ -78,6 +85,7 @@ Cráneo de vaca, bronce, tornillería de latón, pan de oro, resina, acrílico y
 <figcaption><b>ECLOSIÓN.</b>
 Cráneo de cerdo bañado en bronce mediante electrólisis, tornillería de latón, hierro, pan de oro y resina. 51x51x27 cm. Pieza única.</figcaption>
 </figure>
+
 
 <figure class="half">
 <figure>
@@ -88,6 +96,7 @@ Cráneo de cerdo bañado en bronce mediante electrólisis, tornillería de lató
 Cráneo de jabalí, tornillería de latón, acrílico, lápiz, acuarela y fijador. 35x15x18 cm. Pieza única.</figcaption>
 </figure>
 
+
 <figure class="half">
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/10.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/10.jpg"></a>
@@ -97,11 +106,13 @@ Cráneo de jabalí, tornillería de latón, acrílico, lápiz, acuarela y fijado
 Cráneo de vaca, resina, cobre, tornillería de latón, impresión, insectos y barniz. 43x52x31 cm. Pieza única.</figcaption>
 </figure>
 
+
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/11.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/11.jpg" alt="Objeto de arte y decoración. Pieza única"></a>
 	<figcaption><b>ROJO TORNADO.</b>
 Cráneo de oveja, tornillería de latón, madera, hierro, pintura y resina acrílica, cola, papel y barniz. 33x29,5x51 cm. Pieza única.</figcaption>
 </figure>
+
 
 <figure class="half">
 <figure>
@@ -122,6 +133,7 @@ Cráneo de vaca, esmalte, fotografías imprimadas, tornillería de latón y barn
 Cráneo de oveja, tornillería de latón, resina y pintura acrílica, pan de plata, lápiz, acuarela y fijador. 22x45x13 cm. Pieza única.</figcaption>
 </figure>
 
+
 <figure class="half">
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/14.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/14.jpg"></a>
@@ -131,6 +143,7 @@ Cráneo de oveja, tornillería de latón, resina y pintura acrílica, pan de pla
 Cráneo de cerdo, tornillería de latón, resina y pintura acrílica. 28x14x15 cm. Pieza única.</figcaption>
 </figure>
 
+
 <figure class="half">
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/16.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/16.jpg"></a>
@@ -139,6 +152,7 @@ Cráneo de cerdo, tornillería de latón, resina y pintura acrílica. 28x14x15 c
 	<figcaption><b>CHRYSALIDE.</b>
 Cráneo de oveja, tornillería de latón, resina y pintura acrílica, pan de oro, impresión y mariposas. 21x45x13 cm. Pieza única.</figcaption>
 </figure>
+
 
 <figure class="half">
 <figure>
@@ -156,6 +170,7 @@ Cráneo de oveja, tornillería de latón, resina y pintura acrílica y barniz. 2
 Resinas, tornillería de latón, pintura acrílica e imán. 48x12 cm. Pieza única.</figcaption>
 </figure>
 
+
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/21.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/21.jpg" alt="Objeto de arte y decoración. Pieza única"></a>
 	<FIGCAPTION><B>COLUMNA AZUL.</b>
@@ -172,6 +187,7 @@ Resinas, tornillería de latón y pigmento. 48x12 cm. Pieza única.</figcaption>
 Resinas, tornillería de latón, pintura acrílica e imán.  48x12 cm. Pieza única.</figcaption>
 </figure>
 
+
 <figure class="half">
 <figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/23.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/23.jpg"></a>
@@ -180,6 +196,7 @@ Resinas, tornillería de latón, pintura acrílica e imán.  48x12 cm. Pieza ún
 	<figcaption><b>COLUMNA TRANSPARENTE.</b>
 Resinas, tornillería de latón, pintura acrílica e imán. 48x12 cm. Pieza única.</figcaption>
 </figure>
+
 
 <figure class="half">
 <figure>
