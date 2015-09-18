@@ -38,7 +38,6 @@ Cráneo de corzo, tornillería de latón, resina y pintura acrílica. 22x11x10 c
 
 
 <figure class="half">
-
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/4.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/4.jpg"></a>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/4_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/4_1.jpg"></a>
 	<figcaption><b>BURBUJA.</b>
