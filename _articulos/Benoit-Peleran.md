@@ -35,6 +35,12 @@ Cráneo de vaca, tornillería de latón. 45x23x27 cm. Pieza única.</figcaption>
 	<figcaption><b>DEDITOS.</b>
 Cráneo de corzo, tornillería de latón, resina y pintura acrílica. 22x11x10 cm. Pieza única.</figcaption>
 </figure>
+
+<figure>
+	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/11.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/11.jpg" alt="Objeto de arte y decoración. Pieza única"></a>
+	<figcaption><b>ROJO TORNADO.</b>
+Cráneo de oveja, tornillería de latón, madera, hierro, pintura y resina acrílica, cola, papel y barniz. 33x29,5x51 cm. Pieza única.</figcaption>
+</figure>
 </div>
 
 
@@ -93,13 +99,6 @@ Cráneo de jabalí, tornillería de latón, acrílico, lápiz, acuarela y fijado
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/10_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/10_1.jpg"></a>
 	<figcaption><b>JOAQUÍN.</b>
 Cráneo de vaca, resina, cobre, tornillería de latón, impresión, insectos y barniz. 43x52x31 cm. Pieza única.</figcaption>
-</figure>
-
-
-<figure>
-	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/11.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/11.jpg" alt="Objeto de arte y decoración. Pieza única"></a>
-	<figcaption><b>ROJO TORNADO.</b>
-Cráneo de oveja, tornillería de latón, madera, hierro, pintura y resina acrílica, cola, papel y barniz. 33x29,5x51 cm. Pieza única.</figcaption>
 </figure>
 
 
@@ -181,7 +180,7 @@ Resinas, tornillería de latón, pintura acrílica e imán. 48x12 cm. Pieza úni
 	<figcaption><b>ALEXEÏ.</b>
 Cráneo y huesos de oveja, piezas y engranajes de relojes, resinas, latón y pan de oro fino. 90x50x70 cm. Pieza única.</figcaption>
 </figure>
-</div>
+
 
 
 
