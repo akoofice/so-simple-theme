@@ -35,7 +35,7 @@ Cráneo de vaca, tornillería de latón. 45x23x27 cm. Pieza única.</figcaption>
 	<figcaption><b>DEDITOS.</b>
 Cráneo de corzo, tornillería de latón, resina y pintura acrílica. 22x11x10 cm. Pieza única.</figcaption>
 </figure>
-
+</div>
 
 
 <figure class="half">
