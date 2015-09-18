@@ -37,6 +37,7 @@ Cráneo de corzo, tornillería de latón, resina y pintura acrílica. 22x11x10 c
 </figure>
 
 
+
 <figure class="half">
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/4.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/4.jpg"></a>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/4_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/4_1.jpg"></a>
@@ -45,12 +46,14 @@ Cráneo de cordero, tornillería de latón e impresión transfer. 22x11x10 cm. P
 </figure>
 
 
+
 <figure class="half">
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/5.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/5.jpg"></a>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/5_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/5_1.jpg"></a>
 	<figcaption><b>CERDO RACIONAL O SOÑADOR.</b>
 Cráneo de cerdo, mecanismos de relojería, plomo, acrílico y tornillería de latón. 27x14x17 cm. Pieza única.</figcaption>
 </figure>
+
 
 
 <figure class="half">
