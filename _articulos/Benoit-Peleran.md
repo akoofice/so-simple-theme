@@ -46,7 +46,6 @@ Cráneo de cordero, tornillería de latón e impresión transfer. 22x11x10 cm. P
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/5.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/5.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/5_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/5_1.jpg"></a>
@@ -56,7 +55,6 @@ Cráneo de cerdo, mecanismos de relojería, plomo, acrílico y tornillería de l
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/6.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/6.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/6_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/6_1.jpg"></a>
@@ -66,7 +64,6 @@ Cráneo de vaca, resina, tornillería de latón, acrílico, lápiz, acuarela y f
 
 	
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/7.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/7.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/7_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/7_1.jpg"></a>
@@ -76,7 +73,6 @@ Cráneo de vaca, bronce, tornillería de latón, pan de oro, resina, acrílico y
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/8.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/8.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/8_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/8_1.jpg"></a>
@@ -86,7 +82,6 @@ Cráneo de cerdo bañado en bronce mediante electrólisis, tornillería de lató
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/9.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/9.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/9_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/9_1.jpg"></a>
@@ -96,7 +91,6 @@ Cráneo de jabalí, tornillería de latón, acrílico, lápiz, acuarela y fijado
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/10.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/10.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/10_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/10_1.jpg"></a>
@@ -113,7 +107,6 @@ Cráneo de oveja, tornillería de latón, madera, hierro, pintura y resina acrí
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/12.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/12.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/12_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/12_1.jpg"></a>
@@ -123,7 +116,6 @@ Cráneo de vaca, esmalte, fotografías imprimadas, tornillería de latón y barn
 	
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/13.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/13.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/13_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/13_1.jpg"></a>
@@ -133,7 +125,6 @@ Cráneo de oveja, tornillería de latón, resina y pintura acrílica, pan de pla
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/14.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/14.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/14_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/14_1.jpg"></a>
@@ -143,7 +134,6 @@ Cráneo de cerdo, tornillería de latón, resina y pintura acrílica. 28x14x15 c
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/16.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/16.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/16_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/16_1.jpg"></a>
@@ -153,7 +143,6 @@ Cráneo de oveja, tornillería de latón, resina y pintura acrílica, pan de oro
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/18.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/18.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/18_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/18_1.jpg"></a>
@@ -177,7 +166,6 @@ Resinas, tornillería de latón y pigmento. 48x12 cm. Pieza única.</figcaption>
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/22.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/22.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/22_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/22_1.jpg"></a>
@@ -187,7 +175,6 @@ Resinas, tornillería de latón, pintura acrílica e imán.  48x12 cm. Pieza ún
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/23.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/23.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/23_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/23_1.jpg"></a>
@@ -197,7 +184,6 @@ Resinas, tornillería de latón, pintura acrílica e imán. 48x12 cm. Pieza úni
 
 
 <figure class="half">
-<figure>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/24.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/24.jpg"></a>
 	
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/24_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/24_1.jpg"></a>
