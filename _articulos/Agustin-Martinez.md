@@ -5,7 +5,7 @@ category: Prints
 layout: articulo
 published: true
 ---
-
+La sensibilidad de los collages de **Agustín Martínez** traspasa el papel.
 
 <div class="figure-group">
 <figure>
