@@ -27,8 +27,8 @@ published: true
 **artivins#2: NATURALISMÆ/ ['galəri]**
 **19 setiembre 13.00h.-15.00h.  Barcelona, C/ Viladomat 27**
 
-**['galəri]** presenta **artivins#2** con _**Naturalismæ**_, una colección de Benoit Peleran y os invita a degustar el vino blanco **Afortunado**, D.O. Rueda, con la música de **Mychel Castro dj**.
-
+**['galəri]** presenta **artivins#2** con _**Naturalismæ**_, una colección de [Benoit Peleran](http://www.galeribcn.com/articulos/Benoit-Peleran.html "Benoit Peleran") y os invita a degustar el vino blanco **Afortunado**, D.O. Rueda, con la música de **Mychel Castro dj**.
+ 
 _Naturalismæ_ nace de la idea de una obra en evolución, huesos, elementos muertos o artículos obsoletos que recobran vida.  
 
 artivins es una iniciativa de ['galəri] en la que presentamos en paralelo la obra de nuestros artistas y un vino seleccionado en cada ocasión, que podréis degustar.
