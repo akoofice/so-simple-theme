@@ -170,7 +170,7 @@ Resinas, tornillería de latón, pintura acrílica e imán.  48x12 cm. Pieza ún
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/23.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/23.jpg"></a>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/23_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/23_1.jpg"></a>
 	<figcaption><b>COLUMNA TRANSPARENTE.</b>
-Resinas, tornillería de latón, pintura acrílica e imán. 48x12 cm. Pieza única.</figcaption>
+Resinas, tornillería de latón e imán. 48x12 cm. Pieza única.</figcaption>
 </figure>
 
 
