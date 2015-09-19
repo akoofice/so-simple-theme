@@ -190,8 +190,7 @@ Cráneo y huesos de oveja, piezas y engranajes de relojes, resinas, latón y pan
 
 Los cráneos, las columnas vertebrales y los huesos son los soportes de esta vegetación que predomina de nuevo y cuya potencia nos ofrece una visión exaltada y magnífica de lo que nos rodea. Elementos muertos o artículos obsoletos que recobran vida, un nuevo aliento para esta naturaleza perfecta. 
 
-Los cráneos proceden de la ganadería o simplemente fueron encontrados. Para los que proceden de la ganadería, la limpieza es totalmente natural (cráneos hervidos en agua) y secados al sol durante varios años para no alterar el equilibrio natural de todas las partes del hueso. Un trabajo exhaustivo pero necesario para mantener este equilibrio.
-
+Los cráneos proceden de la ganadería o simplemente fueron encontrados. Para los que proceden de la ganadería, la limpieza es totalmente natural, hirviéndose los cráneos en agua ([aquí teneís el video del proceso, abstenerse estómagos delicados](https://vimeo.com/139725964 "aquí teneís el video del proceso, abstenerse estómagos delicados...")) y secándose al sol durante varios años para no alterar el equilibrio natural de todas las partes del hueso. Un trabajo exhaustivo pero necesario para mantener este equilibrio.
 
 <iframe width="500" height="333" src="https://player.vimeo.com/video/138410825?color=ffffff" frameborder="0" allowfullscreen></iframe>
 
