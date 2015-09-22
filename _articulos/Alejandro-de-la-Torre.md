@@ -42,7 +42,7 @@ Espejo convexo de 40 cm. Ø, enmarcado en un teclado de piano. 132x132x12 cm. 1.
 <figure>
 <a href="/images/Alejandro/21.jpg"><img src="/images/Alejandro/21.jpg" alt="Espejo convexo Alejandro de la Torre diseño Barcelona"></a>
 	<figcaption>
-Espejo convexo de 40 cm. Ø, acoplado a otro espejo reutilizado. 100x100x7 cm. 980€.</figcaption>
+Espejo convexo de 40 cm. Ø, acoplado a otro espejo reutilizado. 100x100x7 cm. VENDIDO.</figcaption>
 </figure>
 
 
