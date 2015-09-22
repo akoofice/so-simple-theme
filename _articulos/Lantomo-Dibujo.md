@@ -62,6 +62,14 @@ El virtuosismo del lápiz de <b>*Lantomo*</b> combina a la perfección el hiperr
 	<figcaption><b>SEE THROUGH II.</b>
     Técnica mixta sobre papel vegetal, con marco 30x42 cm. 220 €.</figcaption>
 </figure>
+
+<figure>
+	<a href="/images/Lantomo/octopus díptico.jpg"><img src="/images/Lantomo/octopus díptico.jpg" alt="Dibujo Lantomo Octopus"></a>
+	<figcaption><b>OCTOPUS DÍPTICO.</b>
+    Lápiz grafito sobre papel. 
+    Medidas: 52x44 cm x 2 unidades, 580€, con marco: 69x112 cm. 680€.</figcaption>
+</figure>
+
 </div>
 
 <b>*Lantomo*</b>, alias artístico de Antonella Montes, es una artista e ilustradora italiana residente en Barcelona.
