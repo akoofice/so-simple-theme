@@ -178,7 +178,7 @@ Resinas, tornillería de latón e imán. 48x12 cm. Pieza única.</figcaption>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/24.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/24.jpg"></a>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/24_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/24_1.jpg"></a>
 	<figcaption><b>ALEXEÏ.</b>
-Cráneo y huesos de oveja, piezas y engranajes de relojes, resinas, latón y pan de oro fino. 90x50x70 cm. Pieza única.</figcaption>
+Cráneo y huesos de carnero, piezas y engranajes de relojes, resinas, latón y pan de oro fino. 90x50x70 cm. Pieza única.</figcaption>
 </figure>
 
 
