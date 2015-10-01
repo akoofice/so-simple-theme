@@ -45,11 +45,11 @@ artivins és una iniciativa de ['galəri] en la que presentem en paral•lel l�
 
 
 
-**['galəri]** presents **artivins#2** with _**Naturalismæ**_, a collection of Benoit Peleran and invites you to taste the white wine **Afortunado**, DO Rueda, with **Mychel Castro dj**.
+**['galəri]** presents **artivins#2** with _**Naturalismæ**_, a Benoit Peleran's collection and invites you to taste the white wine **Afortunado**, DO Rueda, with **Mychel Castro dj**.
 
 _Naturalismæ_ comes from the idea of a work in progress, bones, dead elements or obsolete items that come alive.
 
-artivins is an initiative of ['galəri] to present in parallel the work of our artists and a wine selected for each occasion, that you can taste.
+artivins is a ['galəri]'s initiative to present in parallel the work of our artists and a wine selected for each occasion, that you can taste.
 
 
 
