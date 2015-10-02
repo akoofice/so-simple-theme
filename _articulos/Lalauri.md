@@ -5,7 +5,7 @@ category: Prints
 layout: articulo
 published: true
 ---
-El rotring de **Laura Agustí** exprime toda la elegancia del blanco y negro.
+El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negro.
 
 
 <div class="figure-group">
