@@ -9,7 +9,7 @@ El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negr
 
 <div class="figure-group">
 <figure>
-<a href="/images/Laura-Agusti/MISS_CATSOLER.jpg"><img src="/images/Laura-Agusti/MISS_CATSOLER.jpg" alt="image"></a> 
+<a href="/images/Laura-Agusti/MISS_CATSOLER.jpg"><img src="/images/Laura-Agusti/MISS_CATSOLER.jpg" alt="Original Laura Agustí"></a> 
 
 <figcaption><b>MISS CATSOLER.</b>
   Estilógrafo y lápiz sobre papel, 42 x 29,7 cm., con marco 47 x 35 cm. 350€.</figcaption>
@@ -17,7 +17,7 @@ El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negr
 
 
 <figure>
-<a href="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg><img src="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg" border="0"></a>
+<a href="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg><img src="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg" alt="Original Laura Agustí"></a>
 
 <figcaption><b>FEMMES.</b>
   Estilógrafo y lápiz sobre papel, 35 x 27 cm., 300€, con marco 41 x 33 cm. 350€.</figcaption>
