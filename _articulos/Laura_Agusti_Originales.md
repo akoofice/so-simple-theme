@@ -7,7 +7,7 @@ published: true
 ---
 El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negro.
 
-<div class="figure-group">
+
 <figure>
 <a href="/images/Laura-Agusti/MISS_CATSOLER.jpg"><img src="/images/Laura-Agusti/MISS_CATSOLER.jpg" alt="Original Laura Agustí"></a> 
 
@@ -17,12 +17,12 @@ El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negr
 
 
 <figure>
-<a href="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg><img src="http://www.img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg" alt="Original Laura Agustí"></a>
+<a href="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg><img src="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg" alt="Original Laura Agustí"></a>
 
 <figcaption><b>FEMMES.</b>
   Estilógrafo y lápiz sobre papel, 35 x 27 cm., 300€, con marco 41 x 33 cm. 350€.</figcaption>
 </figure>
-</div>
+
 
 
 _...A los 8 años sabía que acabaría estudiando Bellas Artes... y así fue, me especialicé en diseño gráfico y pintura. Disfruté cada minuto de mi formación universitaria y exploté mi creatividad al máximo._ 
