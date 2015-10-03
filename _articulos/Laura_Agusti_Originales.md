@@ -17,7 +17,7 @@ El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negr
 
 
 <figure>
-<a href="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg><img src="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg" alt="Original Laura Agustí"></a>
+<a href="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg><img src="http://www.img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg" alt="Original Laura Agustí"></a>
 
 <figcaption><b>FEMMES.</b>
   Estilógrafo y lápiz sobre papel, 35 x 27 cm., 300€, con marco 41 x 33 cm. 350€.</figcaption>
