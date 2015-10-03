@@ -17,7 +17,7 @@ El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negr
 
 
 <figure>
-<a href=""/images/Laura-Agusti/FEMMES.jpg"" target=_blank><img src="http://img28.imagevenue.com/loc42/th_892568549_FEMMES_122_42lo.jpg" border="0"></a>
+	<a href="http://img16.imagevenue.com/img.php?image=892995838_FEMMES_122_572lo.jpg" target=_blank><img src="http://img16.imagevenue.com/loc572/th_892995838_FEMMES_122_572lo.jpg" border="0"></a>
 </figure>	  
 
 <figcaption><b>FEMMES.</b>
