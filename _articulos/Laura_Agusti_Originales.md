@@ -8,12 +8,12 @@ published: true
 El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negro.
 
 
-<figure>
+
 <a href="/images/Laura-Agusti/MISS_CATSOLER.jpg"><img src="/images/Laura-Agusti/MISS_CATSOLER.jpg" alt="Original Laura Agustí"></a> 
 
 <figcaption><b>MISS CATSOLER.</b>
   Estilógrafo y lápiz sobre papel, 42 x 29,7 cm., con marco 47 x 35 cm. 350€.</figcaption>
-</figure>
+
 
 
 <figure>
