@@ -1,6 +1,6 @@
 ---
-title: Bàlu Naiz
-description:  Originales Bàlu Naiz Barcelona urban art design 
+title: Bàlu 
+description:  Originales Bàlu Barcelona urban art design 
 category: Pintura
 layout: articulo
 published: true
