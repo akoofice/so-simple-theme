@@ -1,6 +1,6 @@
 ---
 title: Bàlu 
-description:  Prints Barcelona art design
+description: Prints Barcelona art design
 category: Prints
 layout: articulo
 published: true
