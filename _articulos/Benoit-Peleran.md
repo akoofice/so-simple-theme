@@ -161,7 +161,7 @@ Resinas, tornillería de latón y pigmento. 48x12 cm. Pieza única.</figcaption>
 <figure class="half">
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/22.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/22.jpg"></a>
 	<a href="http://www.respiracion-circular-avanzada.es/galeribcn/22_1.jpg"><img src="http://www.respiracion-circular-avanzada.es/galeribcn/22_1.jpg"></a>
-	<figcaption><b> COLUMNA BLANCA ROTO.</b>
+	<figcaption><b> COLUMNA BLANCO ROTO.</b>
 Resinas, tornillería de latón, pintura acrílica e imán.  48x12 cm. Pieza única.</figcaption>
 </figure>
 
