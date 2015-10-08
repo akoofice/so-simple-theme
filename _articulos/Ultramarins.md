@@ -39,6 +39,13 @@ Bolsa de algodón de edición limitada a 50 unidades. Medidas: 40x38 cm. 16€.<
 </figure>
 
 
+<figure class="half">
+	<a href="http://img248.imagevenue.com/img.php?image=307539359_CACTUS_122_205lo.jpg"><img src="http://img248.imagevenue.com/loc205/th_307539359_CACTUS_122_205lo.jpg"></a>
+	<a href="http://img169.imagevenue.com/img.php?image=307724643_CACTUS2_122_659lo.jpg"><img src="http://img169.imagevenue.com/loc659/th_307724643_CACTUS2_122_659lo.jpg"></a>
+<figcaption><b>MUJER CACTUS de RAQUEL FERIA.</b>
+Bolsa de algodón de edición limitada a 50 unidades. Medidas: 40x38 cm. 16€.</figcaption>
+</figure>
+
 
 **Ultramarins** es el resultado de un proyecto que nació una tarde de 2014 en Barcelona. Este proyecto quiere ser un punto de encuentro entre artistas y amantes del arte y la moda, donde los artistas se den a conocer en un ambiente y formato totalmente diferente a lo conocido: bolsas de tela. Las piezas creadas, se venden como obras de arte de edición limitada, y a la vez, funcionales.
 
