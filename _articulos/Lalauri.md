@@ -17,7 +17,7 @@ El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negr
 </figure>
 
 <figure>
-	<a href="http://img16.imagevenue.com/img.php?image=301335116_DEERBLYTH_122_531lo.jpg" target=_blank><img src="http://img16.imagevenue.com/loc531/th_301335116_DEERBLYTH_122_531lo.jpg" border="0"></a>
+	<a href="http://img16.imagevenue.com/img.php?image=301335116_DEERBLYTH_122_531lo.jpg"><img src="http://img16.imagevenue.com/loc531/th_301335116_DEERBLYTH_122_531lo.jpg"></a>
 <figcaption><b>MR & MRS DEERBLYTH.</b> 
 	Reproducción sobre papel Opale de 250 gr., 42 x 30 cm., en edición limitada de 50 obras, firmada y con certificado de autenticidad incluido. 30€.
 	</figcaption>
