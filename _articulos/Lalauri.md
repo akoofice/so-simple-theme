@@ -10,7 +10,7 @@ El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negr
 
 <div class="figure-group">
 <figure>
-	<a href="http://img143.imagevenue.com/img.php?image=301255372_petalos_122_143lo.jpg" target=_blank><img src="http://img143.imagevenue.com/loc143/th_301255372_petalos_122_143lo.jpg" border="0"></a>
+	<a href="http://img143.imagevenue.com/img.php?image=301255372_petalos_122_143lo.jpg"><img src="http://img143.imagevenue.com/loc143/th_301255372_petalos_122_143lo.jpg"></a>
 	<figcaption><b>PÉTALOS DE PIEL.</b> 
 	Reproducción sobre papel Opale de 250 gr., 42 x 30 cm., en edición limitada de 50 obras, firmada y con certificado de autenticidad incluido. 30€.
 	</figcaption>
