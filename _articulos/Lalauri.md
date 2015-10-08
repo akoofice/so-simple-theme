@@ -10,6 +10,20 @@ El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negr
 
 <div class="figure-group">
 <figure>
+	<a href="http://es.zimagez.com/zimage/petalos0.php" target="_blank" title="ArtPrint Laura Agustí"><img src="http://es.zimagez.com/miniature/petalos0.jpg" alt="ArtPrint Laura Agustí galeribcn" /></a>
+	<figcaption><b> PÉTALOS DE PIEL.</b> 
+	Reproducción sobre papel Opale de 250 gr., 42 x 30 cm., en edición limitada de 50 obras, firmada y con certificado de autenticidad incluido. 30€.
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="http://es.zimagez.com/zimage/deerblyth.php" target="_blank" title="ArtPrint Laura Agustí"><img src="http://es.zimagez.com/miniature/deerblyth.jpg" alt="ArtPrint Laura Agustí galeribcn" /></a>
+<figcaption><b>MR & MRS DEERBLYTH.</b> 
+	Reproducción sobre papel Opale de 250 gr., 42 x 30 cm., en edición limitada de 50 obras, firmada y con certificado de autenticidad incluido. 30€.
+	</figcaption>
+</figure>
+
+<figure>
 	<a href="/images/Laura-Agusti/CATCLARE.jpg"><img src="/images/Laura-Agusti/CATCLARE.jpg" alt="Laura Agustí Ilustración diseño Barcelona"></a>
 	<figcaption><b>MISS  CATCLARE.</b> 
 	Reproducción sobre papel Opale de 250 gr., 29,5 x 21 cm., en edición limitada de 50 obras, firmada y con certificado de autenticidad incluido. 20€.
