@@ -194,4 +194,7 @@ Los cráneos proceden de la ganadería o simplemente fueron encontrados. Para lo
 
 <iframe width="500" height="333" src="https://player.vimeo.com/video/138410825?color=ffffff" frameborder="0" allowfullscreen></iframe>
 
+_Les fleurs exquises_ es una fábula con tintes mágicos contada por Fú y Don Bönnto que nos habla del proceso creativo del artista. La acción se desarrolla en la casa-taller de un extraño ser que pasa sus días enfrascado en insuflar vida a su particular realidad. Las flores le ayudaran…
+Autores: Fú (Cristina Funes) y Don Bönnto (Benoit Peleran)
+
 
