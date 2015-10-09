@@ -12,14 +12,14 @@ El estilógrafo de **Laura Agustí** exprime toda la elegancia del blanco y negr
 <figure>
 	<a href="http://img143.imagevenue.com/img.php?image=301255372_petalos_122_143lo.jpg"><img src="http://img143.imagevenue.com/loc143/th_301255372_petalos_122_143lo.jpg"></a>
 	<figcaption><b>PÉTALOS DE PIEL.</b> 
-	Reproducción sobre papel Opale de 250 gr., 42 x 30 cm., en edición limitada de 50 obras, firmada y con certificado de autenticidad incluido. 33€.
+	Reproducción sobre papel Opale de 250 gr., 39,5 x 30 cm., en edición limitada de 50 obras, firmada y con certificado de autenticidad incluido. 33€.
 	</figcaption>
 </figure>
 
 <figure>
 	<a href="http://img16.imagevenue.com/img.php?image=301335116_DEERBLYTH_122_531lo.jpg"><img src="http://img16.imagevenue.com/loc531/th_301335116_DEERBLYTH_122_531lo.jpg"></a>
 <figcaption><b>MR & MRS DEERBLYTH.</b> 
-	Reproducción sobre papel Opale de 250 gr., 42 x 30 cm., en edición limitada de 50 obras, firmada y con certificado de autenticidad incluido. 33€.
+	Reproducción sobre papel Opale de 250 gr., 39,5 x 30 cm., en edición limitada de 50 obras, firmada y con certificado de autenticidad incluido. 33€.
 	</figcaption>
 </figure>
 
