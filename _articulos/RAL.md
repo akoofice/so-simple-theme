@@ -60,7 +60,7 @@ Collage y acrílico sobre madera, con marco 38x27cm. 190€.</figcaption>
 <figure>
 	<a href="/images/RAL/pure.jpg"><img src="/images/RAL/pure.jpg" alt="RAL Collage y acrílico sobre madera diseño Barcelona galeribcn"></a>
 <figcaption><b>PURE.</b> 
-Collage y acrílico sobre madera, con marco 49,5x36 cm. 210€.</figcaption>
+Collage y acrílico sobre madera, con marco 49,5x36 cm. VENDIDO</figcaption>
 </figure>
 </div>
 
