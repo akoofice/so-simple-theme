@@ -26,6 +26,18 @@ Reproducción digital seriada y firmada, 40x30 cm. 28€, con marco 41x31 cm. 48
 <figcaption><b>S.T.</b> 
 Obra realizada en colaboración con BÀLU NAIZ. Reproducción digital seriada y firmada, 44x31 cm. 90€, con marco 115€.</figcaption>
 </figure>
+
+<figure>
+<a href="http://img259.imagevenue.com/img.php?image=846078606_liesweb_122_115lo.jpg"><img src="http://img259.imagevenue.com/loc115/th_846078606_liesweb_122_115lo.jpg"></a>
+<figcaption><b>LIES.</b> 
+Reproducción digital seriada y firmada, 40x30 cm. 40€, con marco 41x31 cm. 60€.</figcaption>
+</figure>
+
+<figure>
+<a href="http://img209.imagevenue.com/img.php?image=846172971_sexyprint_123_355lo.jpg"><img src="http://img209.imagevenue.com/loc355/th_846172971_sexyprint_123_355lo.jpg"></a>
+<figcaption><b>SEXY.</b> 
+Reproducción digital seriada y firmada, 40x30 cm. 40€, con marco 41x31 cm. 60€.</figcaption>
+</figure>	   
 </div>
 
 Raul Huerta es **RAL**, artista y diseñador gráfico de Montornès del Vallès (Barcelona), que interesado por las técnicas pictóricas y el _handmade_ fue indagando hacia el collage, lo que le sirvió como medio para expresar sus primeras ideas, en un comienzo con temas más duros y una paleta de color más gris, para más tarde y poco a poco ir introduciendo colores, los cuales son representativos para definir su línea argumental.
